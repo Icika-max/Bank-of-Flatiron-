@@ -16,6 +16,13 @@ export default function NewItemForm({onSubmission}) {
     function handleSubmit(e){
         e.preventDefault()
         onSubmission(formData)
+        setFormData({
+            date:"",
+            category:"",
+            amount:0,
+            description:""
+    
+    })
     }
 
     return (
