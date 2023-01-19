@@ -7,7 +7,7 @@ export default function SearchForm({onSearching}){
         e.preventDefault()
         setSearch(e.target.value)
         onSearching(search)
-        cn
+        
     }
     return (
             <form onChange={handleChange} id="search-form">
