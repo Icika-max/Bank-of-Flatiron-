@@ -2,6 +2,9 @@
 
 Welcome to the Bank of Flatiron, where you can trust us with all your financials
 
+  To view the project on th browser visit: 
+  https://bank-of-flatiron-kva2cgcla-icika-max.vercel.app/
+  
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 

@@ -97,6 +97,27 @@
       "amount": "70",
       "description": "mask",
       "id": 14
+    },
+    {
+      "date": "2023-01-13",
+      "category": "food",
+      "amount": "50",
+      "description": "smokie",
+      "id": 15
+    },
+    {
+      "date": "2023-01-14",
+      "category": "phone",
+      "amount": "31770",
+      "description": "realme",
+      "id": 16
+    },
+    {
+      "date": "2023-01-19",
+      "category": "tech",
+      "amount": "500",
+      "description": "mouse",
+      "id": 17
     }
   ]
 }
